@@ -1,0 +1,95 @@
+<!DOCTYPE html> 
+<html lang="en" ng-app="bienal">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+
+	<style>
+		h5:first-letter{
+			text-transform: uppercase;
+		}
+
+		.face{
+			background: #405D9B;
+			padding: 5px 8px;
+			border: 1px solid gray;
+			color: white;
+			border-radius: 5px
+		}
+		.face:hover{
+			color:lightgray;
+		}
+		.post-wrap{
+			display: flex;
+			flex-wrap:wrap;
+			justify-content:center;
+		}
+		.post{
+			box-shadow:1px 1px 10px gray;
+			width:280px;
+			margin:10px;
+			padding-left:10px;
+		}
+		header{
+			width: 100%;
+			padding: 15px 0;
+			background:#107596;
+			position: fixed;
+			top:0;
+			left:  0;
+		}
+		header form{
+			margin: 0;
+			display: flex;
+		}
+		header form input{
+			margin:0;
+			outline: 0;
+			padding:7px 0;
+			padding-left: 5px;
+			width: 450px;
+			margin:0 auto;
+			border:0;
+			border-radius: 5px;
+			font-size: 17px;
+			box-shadow: 0 0 10px #000;
+		}
+
+		.title-pagina{
+			margin-top: 80px;
+			text-align: center;
+		}
+		.up{
+			text-transform: capitalize;
+		}
+	</style>
+</head>
+<body ng-controller="PosterController">
+	<header>
+		<form action="">
+			<input type="text" ng-model="query" autofocus placeholder="Encuentra el Centro Cultural que buscas...">
+		</form>
+	</header>
+
+	<h1 class="title-pagina">Centros Culturales De Mexico ---> <span>{{posts.length}}</span> </h1>
+
+
+	<hr>
+<div class="post-wrap">
+	<div ng-repeat="post in posts | filter:query" class="post">
+		<h2>Estado: <span class="up">{{post.estado}}</span></h2>
+		<h4>Municipio: <span class="up">{{post.municipio}}.</span></h4>
+		<p>Centro Cultural: <span class="up">{{post.nombreCasaCultura}}.</span></p>
+		<p>Correo: {{post.correo}}</p>
+		<p><a href="{{post.paginaFace}}" class="face" target="_blank">Pagina de Facebook</a></p>
+	
+	</div>
+
+</div>
+
+	<script src="angular.min.js"></script>
+
+	<script src="app.js"></script>
+
+</body>
+</html>

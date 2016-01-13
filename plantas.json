@@ -1,0 +1,577 @@
+[
+	{
+		"nombre": "laurel de la india",
+		"categoria": "arboles",
+		"precio": 220,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pingüica",
+		"categoria": "arboles",
+		"precio": 130,
+		"exposicion":"sol",
+		"id": 002
+	},{
+		"nombre": "olivo negro",
+		"categoria": "arboles",
+		"precio": 270,
+		"exposicion":"sol",
+		"id": 003
+	},{
+		"nombre": "olivo aceitunero",
+		"categoria": "arboles",
+		"precio": 580,
+		"exposicion":"sol",
+		"id": 004
+	},{
+		"nombre": "neem",
+		"categoria": "arboles",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "arcoiris",
+		"categoria": "arboles",
+		"precio": 130,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "ceiba",
+		"categoria": "arboles",
+		"precio": 280,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "plumosa",
+		"categoria": "palmas",
+		"precio": 250,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "plumosa",
+		"categoria": "palmas",
+		"precio": 1200,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "cuello de botella",
+		"categoria": "palmas",
+		"precio": 650,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "cola de pez",
+		"categoria": "palmas",
+		"precio": 600,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "kerpis",
+		"categoria": "palmas",
+		"precio": 280,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "kerpis",
+		"categoria": "palmas",
+		"precio": 1600,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "alejandra",
+		"categoria": "palmas",
+		"precio": 480,
+		"exposicion":"sol",
+		"id": 001
+	}
+	,{
+		"nombre": "katechu",
+		"categoria": "palmas",
+		"precio": 750,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "triangular",
+		"categoria": "palmas",
+		"precio": 600,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "datilera",
+		"categoria": "palmas",
+		"precio": 300,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "washintona",
+		"categoria": "palmas",
+		"precio": 160,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "del viajero",
+		"categoria": "palmas",
+		"precio": 520,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "areca",
+		"categoria": "palmas",
+		"precio": 170,
+		"exposicion":"sombra-sol",
+		"id": 001
+	},{
+		"nombre": "licuala",
+		"categoria": "palmas",
+		"precio": 250,
+		"exposicion":"sombra",
+		"id": 001
+	},
+	{
+		"nombre": "pirulo",
+		"categoria": "arboles",
+		"precio": 120,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "araucaria",
+		"categoria": "arboles",
+		"precio": 290,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "palo de uva",
+		"categoria": "arboles",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "tabachin",
+		"categoria": "arboles",
+		"precio": 230,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "fresno",
+		"categoria": "arboles",
+		"precio": 180,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "jacaranda",
+		"categoria": "arboles",
+		"precio": 160,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "liquidambar",
+		"categoria": "arboles",
+		"precio": 300,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "ahuhuete",
+		"categoria": "arboles",
+		"precio": 180,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pino greygui",
+		"categoria": "arboles",
+		"precio": 300,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pino michoacano",
+		"categoria": "arboles",
+		"precio": 30,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "primavera amarilla",
+		"categoria": "arboles",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "lluvia de oro",
+		"categoria": "arboles",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cedro rojo",
+		"categoria": "arboles",
+		"precio": 220,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "almendro",
+		"categoria": "arboles",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "junipero",
+		"categoria": "arboles",
+		"precio": 200,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "tuyas",
+		"categoria": "arboles",
+		"precio": 330,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pino panda",
+		"categoria": "arboles",
+		"precio": 300,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cedro limon",
+		"categoria": "arboles",
+		"precio": 200,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cedro blanco",
+		"categoria": "arboles",
+		"precio": 180,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cipres italiano",
+		"categoria": "arboles",
+		"precio": 220,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "casuarina",
+		"categoria": "arboles",
+		"precio": 130,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "bambu",
+		"categoria": "arboles",
+		"precio": 250,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "durazno",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "manzano",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "capulin",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "ciruela españa",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "membrillo",
+		"categoria": "frutales",
+		"precio": 200,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "chabacano",
+		"categoria": "frutales",
+		"precio": 200,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "nectarin",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "carambolo",
+		"categoria": "frutales",
+		"precio": 130,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "guayabo",
+		"categoria": "frutales",
+		"precio": 140,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "guayabo piña",
+		"categoria": "frutales",
+		"precio": 160,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "guayabo fresa",
+		"categoria": "frutales",
+		"precio": 250,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "yaca",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cacao",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "gunabano",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "nispero",
+		"categoria": "frutales",
+		"precio": 130,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "granado",
+		"categoria": "frutales",
+		"precio": 200,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "higo",
+		"categoria": "frutales",
+		"precio": 120,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "parra",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "naranja washintona",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "naranja valencia",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "limón criollo",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "limón persa",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "lima corriente",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "naranja lima",
+		"categoria": "frutales",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "toronja",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "mango criollo",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pomelo",
+		"categoria": "frutales",
+		"precio": 170,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "mango ataulfo",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "mango ken",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "mango key",
+		"categoria": "frutales",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "aralia de moño",
+		"categoria": "ornato",
+		"precio": 80,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "aralia de concha",
+		"categoria": "ornato",
+		"precio": 80,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "padanos",
+		"categoria": "ornato",
+		"precio": 250,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "marginatas",
+		"categoria": "ornato",
+		"precio": 90,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "azalea de copa",
+		"categoria": "ornato",
+		"precio": 540,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "marianas",
+		"categoria": "ornato",
+		"precio": 80,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "tronco de brasil",
+		"categoria": "ornato",
+		"precio": 200,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "warneke",
+		"categoria": "ornato",
+		"precio": 100,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "helecho macho",
+		"categoria": "ornato",
+		"precio": 200,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "helecho cola de pez",
+		"categoria": "ornato",
+		"precio": 170,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "pachipodio",
+		"categoria": "ornato",
+		"precio": "200-600-1500",
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "pata de elefante",
+		"categoria": "ornato",
+		"precio": 150,
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "ave del paraiso",
+		"categoria": "ornato",
+		"precio": 140,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "corona de cristo",
+		"categoria": "ornato",
+		"precio": 100,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "rosa del desierto",
+		"categoria": "ornato",
+		"precio": 150,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "gardenias",
+		"categoria": "ornato",
+		"precio": 70,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cica revulta",
+		"categoria": "ornato",
+		"precio": "220-4500",
+		"exposicion":"sol-sombra",
+		"id": 001
+	},{
+		"nombre": "latania roja",
+		"categoria": "ornato",
+		"precio": 1700,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "rafis",
+		"categoria": "ornato",
+		"precio": 100,
+		"exposicion":"sombra",
+		"id": 001
+	},{
+		"nombre": "bismarkia",
+		"categoria": "ornato",
+		"precio": 4000,
+		"exposicion":"sol",
+		"id": 001
+	},{
+		"nombre": "cica thorosai",
+		"categoria": "ornato",
+		"precio": 3000,
+		"exposicion":"sol",
+		"id": 001
+	}
+
+
+]

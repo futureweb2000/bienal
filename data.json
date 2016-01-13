@@ -1,0 +1,2528 @@
+[
+	{
+		"estado": "aguascalientes",
+		"municipio": "aguascalientes",
+		"nombreCasaCultura": "Casa de la cultura victor sandoval Aguacalientes",
+		"correo": "informacion.ica@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-La-Cultura/199584703405613?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "asientos",
+		"nombreCasaCultura": "Casa de la cultura asientos",
+		"correo": "ica@aguascalientes.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.deasientos?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "calvillo",
+		"nombreCasaCultura": "Casa de la cultura calvillo",
+		"correo": "calcultura@hotmail.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Calvillo-Ags/269869209819695?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "cosio",
+		"nombreCasaCultura": "Casa de la cultura de cosio",
+		"correo": "coscultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Cosio/770852789604419"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "el llano",
+		"nombreCasaCultura": " Casa de la cultura de el llano",
+		"correo": "llacultura@hotmail.com.mx",
+		"paginaFace": "https://www.facebook.com/CasaDeLaCulturaElLlanoIca/"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "jesus maria",
+		"nombreCasaCultura": "",
+		"correo": "jmacultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Jesus-Maria-Ags/171588132929100?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "pabellon de arteaga",
+		"nombreCasaCultura": "Casa de la cultura Pabellon de arteaga",
+		"correo": "pabcultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura/113175792118360"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "rincon de romos",
+		"nombreCasaCultura": "Casa del la cultura rincon de romos",
+		"correo": "rincon.ica@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-de-Rinc%C3%B3n-de-Romos/1470527289825357?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "san fancisco de los romos",
+		"nombreCasaCultura": " Casa de la cultura de san francisco de los romos",
+		"correo": "sfrcultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-San-Francisco-De-Los-Romo/617220294965903?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "san jose de gracia",
+		"nombreCasaCultura": "Casa de la cultura san jose de gracia",
+		"correo": "sjgcultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.sanjosedegracia?fref=ts"
+	},
+	{
+		"estado": "aguascalientes",
+		"municipio": "tepezala",
+		"nombreCasaCultura": " Casa de la cultura tepezala",
+		"correo": "tepcultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-la-Cultura/238743716155385?fref=ts"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "ensenada",
+		"nombreCasaCultura": "Casa de la cultura Prof. Miguel de anda jacobsen",
+		"correo": "amalia.gaitan@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casa.de.la.cultura.ensenada?fref=ts"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "mexicali",
+		"nombreCasaCultura": "Casa de la cultura de mexicali",
+		"correo": "casadelaculturamexicali@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CasaDeLaCulturaDeMexicali"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "playas del rosarito",
+		"nombreCasaCultura": "instituto municipal de arte y cultura rosarito",
+		"correo": "imac.rosarito@gmail.com",
+		"paginaFace": "https://www.facebook.com/CasaDeLaCulturaElLlanoIca/"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "tecate",
+		"nombreCasaCultura": "centro estatal de las artes",
+		"correo": "ceartkt@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-De-Las-Artes/591933757511267?fref=ts"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "tijuana",
+		"nombreCasaCultura": "Casa de la cultura Playas",
+		"correo": "casadelaculturaplayas@gmail.com",
+		"paginaFace": "https://www.facebook.com/casadeculturaplayas?fref=ts"
+	},
+	{
+		"estado": "Baja California",
+		"municipio": "tijuana2",
+		"nombreCasaCultura": "centro cultural tijuana",
+		"correo": "direccion@cecut.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/CECUT-Centro-Cultural-Tijuana/156778707686603?fref=ts"
+	},
+
+	{
+		"estado": "Baja California sur",
+		"municipio": "comondu",
+		"nombreCasaCultura": "Centro cultural puro valle",
+		"correo": "centroculturalpurovalle@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-La-Cultura/199584703405613?fref=ts"
+	},
+	{
+		"estado": "Baja California sur",
+		"municipio": "la paz",
+		"nombreCasaCultura": "Centro Municipal de las Artes de La Paz",
+		"correo": "cabot40@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Baja California sur",
+		"municipio": "loreto",
+		"nombreCasaCultura": "Casa de la cultura de loreto",
+		"correo": "culturaloreto@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-La-Cultura-Loreto-BCS/334779296533790"
+	},
+	{
+		"estado": "Baja California sur",
+		"municipio": "los cabos",
+		"nombreCasaCultura": "Casa de la cultura de Alfedo green gonzalez",
+		"correo": "maridi72@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Alfredo-Green-Gonzalez/171855542869550"
+	},
+
+	{
+		"estado": "Campeche",
+		"municipio": "calkmul",
+		"nombreCasaCultura": "Museo de la Naturaleza y Arqueología de Calakmul",
+		"correo": "centroculturalpurovalle@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura/775932415753311?fref=ts"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "calkini",
+		"nombreCasaCultura": "Casa de la cultura calkini",
+		"correo": "comupocalk@yahoo.com",
+		"paginaFace": "https://www.facebook.com/casade.culturadelestado?rf=121285234623766"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "carmen",
+		"nombreCasaCultura": "Casa de la cultura carme campeche",
+		"correo": "silvia_cervera@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Cd-Del-Carmen/636382689718460?sk=info"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "campeche",
+		"nombreCasaCultura": "Centro cultural casa 6",
+		"correo": "mperaza2005@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "escarcega",
+		"nombreCasaCultura": "Casa de Cultura Ing. Humberto Manuel Cahuich Jesús",
+		"correo": "caty-444@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "hecelchakan",
+		"nombreCasaCultura": "Casa de la Cultura de Hecelchakán",
+		"correo": "brai_1000@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "hopelchen",
+		"nombreCasaCultura": "Centro cultural los chenes",
+		"correo": "jorge_gapt@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "palizada",
+		"nombreCasaCultura": "Casa de Cultura de Municipio de Palizada",
+		"correo": "juanjesus_jimenezlara@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Campeche",
+		"municipio": "tenabo",
+		"nombreCasaCultura": "Casa de la cultura de tenabo",
+		"correo": "penrril_79@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "acala",
+		"nombreCasaCultura": "Casa de la cultura acala",
+		"correo": "diazrosales_17@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "arriaga",
+		"nombreCasaCultura": "casa de la cultura armando rojas arevalo",
+		"correo": "acuario8570@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "berriozabal",
+		"nombreCasaCultura": "Casa de la Cultura de Bochil",
+		"correo": "ccberriozabal@conecultachiapas.gob.mx",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "bochil",
+		"nombreCasaCultura": "Casa de la Cultura de Bochil",
+		"correo": "ccbochil@conecultachiapas.gob.mx;",
+		"paginaFace": "https://www.facebook.com/casadelaculturabcchil"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "cacahoatan",
+		"nombreCasaCultura": "Casa de la Cultura de Cacahoatán",
+		"correo": "cccacahoatan@conecultachiapas.gob.mx;",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-Cultura-y-Escuela-de-Artes-Cacahoatan/508388409171359"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "catazaja",
+		"nombreCasaCultura": "Casa de la Cultura de Catazajá",
+		"correo": "ccplayasdecatazaja@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/coneculta-casa-d-la-cultura-playas-d-catazaja/577163559017590?rf=378894155573040"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "Chalchihuitan",
+		"nombreCasaCultura": "Casa de la Cultura de Chalchihuitan",
+		"correo": "xerardochalchi@hotmail.com",
+		"paginaFace": "https://www.facebook.com/profile.php?id=100009381180003"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chamula",
+		"nombreCasaCultura": "Casa de la Cultura de San Juan Chamula",
+		"correo": "ton_vinik@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadelacultura.chamula"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chanal",
+		"nombreCasaCultura": "Casa de Cultura de Chanal",
+		"correo": "puma_universitario02@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadelaculturachanal.promotoria"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chapultenango",
+		"nombreCasaCultura": "Casa de la Cultura Yukshj Tyujk",
+		"correo": "chapultenango2011-2012@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chenalho",
+		"nombreCasaCultura": "Casa de Cultura Manuel Arias Sojob",
+		"correo": "cucayverde@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Manuel-Arias-Sojob/224146044455444"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chiapa de corzo",
+		"nombreCasaCultura": "Centro Cultural Ex Convento de Santo Domingo",
+		"correo": "exconvento@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Santo-Domingo/177190954302"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "chilon",
+		"nombreCasaCultura": "casa de la cultura de chilon",
+		"correo": "casadeculturachilon@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-cultura-Chilon-Chiapas/170900032970501"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "cintalapa",
+		"nombreCasaCultura": "none",
+		"correo": "cccintalapa@conecultachiapas.gob.mx",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "comitan de dominguez",
+		"nombreCasaCultura": "Centro Cultural Rosario Castellanos",
+		"correo": "rosariocastellanos@conecultachiapas.gob.mx",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "copainala",
+		"nombreCasaCultura": "casa de cultura de copainala",
+		"correo": "carloscomiteco@gmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "escuintla",
+		"nombreCasaCultura": "Casa de Cultura Profr. Isaías Hilerio Martínez",
+		"correo": "ccescuintla@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadelaculturade.escuintla"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "frontera comalapa",
+		"nombreCasaCultura": "Casa de la Cultura Óscar Bonifaz Caballero",
+		"correo": "ccfronteracomalapa@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Difusion-Cultural-Comalapa/147312038772301"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "frontera hidalgo",
+		"nombreCasaCultura": "Casa de Cultura de Frontera Hidalgo",
+		"correo": "champions_83@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "huehuetan",
+		"nombreCasaCultura": "Casa de Cultura Profra. Lilia Márquez López",
+		"correo": "secretaria.tecnica.huehuetan@gmail.com",
+		"paginaFace": "none"		
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "huixtan",
+		"nombreCasaCultura": "casa de cultura de huixtan",
+		"correo": "cultura_celali@outlook.com",
+		"paginaFace":"https://www.facebook.com/casadecultura.huixtan"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "huixtla",
+		"nombreCasaCultura": "casa de cultura de coapilla",
+		"correo": "cchuixtla@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.huixtla.9?fref=ts"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "Ixhuatán",
+		"nombreCasaCultura": "Casa de la Cultura Ixhuatán",
+		"correo": "ccixhuatan@conecultachiapas.gob.mx",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "Ixtacomitán",
+		"nombreCasaCultura": "Casa de la Cultura de Ixtacomitán",
+		"correo": "ccixtacomitan@conecultachiapas.gob.mx",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "ixtapa",
+		"nombreCasaCultura": "casa de cultura de Ixtacomitán",
+		"correo": "oca-a-tony@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "jiquipilas",
+		"nombreCasaCultura": "Casa de la Cultura de Jiquipilas",
+		"correo": "ccjiquipilas@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Jiquipilas-Chiapas/166550593363793?__tn__=C"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "jitotol",
+		"nombreCasaCultura": "Casa de Cultura de Jitotol",
+		"correo": "rolanmolin@hotmail.com",
+		"paginaFace": "https://www.facebook.com/JITOCULTURA"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "juarez",
+		"nombreCasaCultura": "Casa de Cultura de Juárez",
+		"correo": "cordculturanorte@hotmail.com",
+		"paginaFace": "none"	
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "la independencia",
+		"nombreCasaCultura": "Casa de Cultura de La Independencia",
+		"correo": "parisg5@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "las margaritas",
+		"nombreCasaCultura": "Casa de la Cultura de Las Margaritas",
+		"correo": "casadelaculturalasmargaritas@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/casa-de-la-cultura-de-las-Margaritas/149037955125667"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "las rosas",
+		"nombreCasaCultura": "Casa de la Cultura de Las Rosas",
+		"correo": "davema69@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "la trinitaria",
+		"nombreCasaCultura": "Casa de la Cultura Antelmo Figueroa Pulido",
+		"correo": "cclatrinitaria@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "mapastepec",
+		"nombreCasaCultura": "Casa de Cultura de Mapastepec Amparo Montes",
+		"correo": "epiaud49@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Agregar-Casa-de-Cultura-Mapastepec-Chiapas/439177192832206"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "mazatan",
+		"nombreCasaCultura": "Casa de Cultura de Mazatán",
+		"correo": "ccmazatan@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Mazat%C3%A1n/284769701675514"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "motozintla",
+		"nombreCasaCultura": "Casa de la Cultura de Motozintla",
+		"correo": "ccmotozintla@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "ocosingo",
+		"nombreCasaCultura": "Casa de la Cultura Profr. Marcos Villanueva López",
+		"correo": "ccocosingo@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "ocotepec",
+		"nombreCasaCultura": "Casa de Cultura de Ocotepec",
+		"correo": "tolio1109@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "ocozocoautla de espinoza",
+		"nombreCasaCultura": "Casa de Cultura Profesora Fidelia Brindis Camacho",
+		"correo": "ismaokuy@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "oxchuc",
+		"nombreCasaCultura": "Casa de la Cultura de Oxchuc",
+		"correo": "santiz1955@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casaculturaoxchuc"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "palenque",
+		"nombreCasaCultura": "Casa de Cultura Fray Pedro Lorenzo de la Nada",
+		"correo": "ccpalenque@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/fernando.ferrerchan.1"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "pichucalco",
+		"nombreCasaCultura": "Casa de la Cultura de Pichucalco",
+		"correo": "ccpichucalco@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "pijijiapan",
+		"nombreCasaCultura": "Casa de la Cultura Lic. César Pineda del Valle",
+		"correo": "ccpichucalco@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "sabanilla",
+		"nombreCasaCultura": "Casa de la Cultura de Sabanilla",
+		"correo": "cuyo10@live.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "salto de agua",
+		"nombreCasaCultura": "Casa de la Cultura de Salto de Agua",
+		"correo": "delegaciones_mendezarcos@hotmail.com",
+		"paginaFace": "none"
+		},
+	{
+		"estado": "Chiapas",
+		"municipio": "san cristobal de las casas",
+		"nombreCasaCultura": "Centro Cultural Alianza Francesa San Cristóbal",
+		"correo": "sancristobal@alianzafrancesa.org.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "simojovel",
+		"nombreCasaCultura": "Casa de la Cultura Simojovel",
+		"correo": "ccsimojovel@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "sitala",
+		"nombreCasaCultura": "Casa de la Cultura de Sitalá",
+		"correo": "sitala2011@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "soyalo",
+		"nombreCasaCultura": "Casa de la Cultura de Soyaló",
+		"correo": "ccsoyalo@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadeculturasoyalo.chiapas"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "tapachula",
+		"nombreCasaCultura": "Casa de la Cultura de Tapachula",
+		"correo": "cctapachula@conecultachiapas.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadelaculturatapachula.d.jefaturadecultura"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "tapilula",
+		"nombreCasaCultura": "Casa de la Cultura de Tapilula",
+		"correo": "cctapulula@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "tejejapa",
+		"nombreCasaCultura": "Casa de la Cultura de Tenejapa",
+		"correo": "kulaktik@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/casa-de-la-cultura-de-Tenejapa-Chiapas/1414170112134909?rf=198091520365253"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "tuxtla gutierrez",
+		"nombreCasaCultura": "Casa de la Cultura Luis Alaminos Guerrero",
+		"correo": "ojitos-1824@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-Luis-Alaminos-Guerrero/415760968449981"
+	},	
+	{
+		"estado": "Chiapas",
+		"municipio": "Tzimol",
+		"nombreCasaCultura": "Casa de la Cultura de Tzimol",
+		"correo": "israelito601@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "villa comaltitlan",
+		"nombreCasaCultura": "Casa de Cultura de Villa Comaltitlán",
+		"correo": "ajpcomaltitlan@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "villa corzo",
+		"nombreCasaCultura": "Casa de Cultura de Villa Corzo",
+		"correo": "la_comadre90@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "villa flores",
+		"nombreCasaCultura": "Casa de Cultura José Emilio Grajales",
+		"correo": "ccvillaflores@conecultachiapas.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "yajalon",
+		"nombreCasaCultura": "Casa de la Cultura de Yajalón",
+		"correo": "rosymar27@hotmai.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chiapas",
+		"municipio": "zinacantan",
+		"nombreCasaCultura": "Casa de la Cultura de Zinacantán",
+		"correo": "chipi_1500@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-de-Zinacantan/641295882683035"
+	},
+	
+	{
+		"estado": "Chihuahua",
+		"municipio": "aldama",
+		"nombreCasaCultura": "Casa de la Cultura Arturo Norte García",
+		"correo": "casadela_cultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/CASA-DE-CULTURA-ARTURO-NORTE-GARCIA/129125637168041"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "ascencion",
+		"nombreCasaCultura": "Casa de Cultura Iyolmacehuayotl",
+		"correo": "jdcereceres@hotmail.com",
+		"paginaFace": "none"
+		},
+	{
+		"estado": "Chihuahua",
+		"municipio": "batopilas",
+		"nombreCasaCultura": "Centro Cultural Manuel Bernardo Aguirre",
+		"correo": "ramon-ruga@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "buenaventura",
+		"nombreCasaCultura": "Casa de la Cultura Ex Hacienda del Carmen",
+		"correo": "jl4va@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Cd-Del-Carmen/636382689718460?sk=info"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "chihuahua",
+		"nombreCasaCultura": "Casa Chihuahua, Centro de Patrimonio Cultural",
+		"correo": "msen@chihuahua.gob.mx",
+		"paginaFace": "https://www.facebook.com/casachihuahua"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "cuauhtemoc",
+		"nombreCasaCultura": "Centro Cultural Cuauhtémoc",
+		"correo": "mireya.rascon-turismo@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "delicias",
+		"nombreCasaCultura": "Casa de Cultura Municipal de Delicias",
+		"correo": "odena_morena@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "galeana",
+		"nombreCasaCultura": "Casa de Cultura de Galeana",
+		"correo": "municipiodegaleana@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "guerrero",
+		"nombreCasaCultura": "Centro Cultural La Junta",
+		"correo": "mpioguerrero@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "janos",
+		"nombreCasaCultura": "Centro Cultural Profr. Ernesto Madera Esquer",
+		"correo": "biblioteca_janoschih@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "juarez",
+		"nombreCasaCultura": "Centro Cultural Paso del Norte",
+		"correo": "ccpn.juárez@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-paso-Del-Norte/120367211447143"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "Madera",
+		"nombreCasaCultura": "Casa de la Cultura Ex-estación del Ferrocarril",
+		"correo": "mvguzman10_10@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "nuevo casas grandes",
+		"nombreCasaCultura": "Casa de Cultura de Nuevo Casas Grandes",
+		"correo": "jchio11@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Chihuahua",
+		"municipio": "rosales",
+		"nombreCasaCultura": "Casa de Cultura Museo Casa Juárez",
+		"correo": "paco2022@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "acuna",
+		"nombreCasaCultura": "Casa de la Cultura de Ciudad Acuña",
+		"correo": "acunacultura@yahoo.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura/775932415753311?fref=ts"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "cuatro cienegas",
+		"nombreCasaCultura": "Casa de la Cultura Cuatro Ciénegas",
+		"correo": "casadelacultura94@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "Francisco I. Madero",
+		"nombreCasaCultura": "Casa de Cultura de Francisco I. Madero",
+		"correo": "hugo_torresgranados@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/casa-de-la-cultura-de-francisco-i-madero-coahuila/135899113099154"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "Guerrero",
+		"nombreCasaCultura": "Casa de la Cultura de Guerrero",
+		"correo": "casaculturagro@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "juarez",
+		"nombreCasaCultura": "Casa de Cultura de Juárez",
+		"correo": "karla_yaneth_cuellar@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Cd-Del-Carmen/636382689718460?sk=info"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "matamoros",
+		"nombreCasaCultura": "Casa de Cultura de Matamoros",
+		"correo": "josealfredo_22@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Matamoros-Coahuila/213845658749286"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "Monclova",
+		"nombreCasaCultura": "Casa de las Artes de Monclova",
+		"correo": "bizaguirrey@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-las-ArtesMonclova-Coahuila/250055195064683"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "muzquiz",
+		"nombreCasaCultura": "Casa de Cultura Cap. Don Miguel de la Garza Falcón",
+		"correo": "enedeliarodriguez2010@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Cap-Don-Miguel-De-La-Garza-Falcon/675537102520403"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "parras",
+		"nombreCasaCultura": "Centro Cultural Nancy Cárdenas",
+		"correo": "lolys0515@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Nancy-C%C3%A1rdenas/238050686406162"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "piedras negras",
+		"nombreCasaCultura": "Casa de Cultura de Piedras Negras",
+		"correo": "icocultnorte@prodigy.net.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "progreso",
+		"nombreCasaCultura": "Casa de Cultura de Progreso",
+		"correo": "(861) 611 10 99",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "ramos arizpe",
+		"nombreCasaCultura": "Casa de la Cultura de Ramos Arizpe",
+		"correo": "casa-de-la-cultura@live.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-cultura-Ramos-Arizpe/181878658491291"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "sabinas",
+		"nombreCasaCultura": "Casa de Cultura de Sabinas",
+		"correo": "cultura_sabinas@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Sabinas-Coahuila/348895538475816"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "saltillo",
+		"nombreCasaCultura": "Casa de la Cultura de Saltillo-  5+",
+		"correo": "minagarza86@hotmail.com",
+		"paginaFace": "https://www.facebook.com/LaC.A.S.A.del100Pies"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "torreon",
+		"nombreCasaCultura": "Centro Cultural José R. Mijares",
+		"correo": "http://www.torreon.gob.mx/laciudad/cultura/centrosculturales/jrmijares.php",
+		"paginaFace": "https://www.facebook.com/pages/DIRECTOR-DEL-CENTRO-CULTURAL-JOSE-R-MIJARES/269812303054378"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "viesca",
+		"nombreCasaCultura": "Casa de la Cultura de Viesca",
+		"correo": "casacult_viesca@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.viesca"
+	},
+	{
+		"estado": "Coahuila",
+		"municipio": "zaragoza",
+		"nombreCasaCultura": "Casa de la Cultura de Zaragoza",
+		"correo": "ram0274@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "armeria",
+		"nombreCasaCultura": "Casa de la Cultura de Armería",
+		"correo": "none",
+		"paginaFace": "https://www.facebook.com/pages/casa-de-la-cultura-armeria-colima/223494011032527"	
+	},
+	{
+		"estado": "Colima",
+		"municipio": "colima",
+		"nombreCasaCultura": "Centro Cultural Balbino Dávalos",
+		"correo": "catarina_azul_@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "conquimatan",
+		"nombreCasaCultura": "Casa de la Cultura de Coquimatlán",
+		"correo": " (312) 323 03 33",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Coquimatl%C3%A1n/454009564632757"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "Ixtlahuacan",
+		"nombreCasaCultura": "Casa de la Cultura de Ixtlahucán",
+		"correo": "direc_ixtlahuacan@hotmail.com; ",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Ixtlahuacan/245170802332534"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "manzanillo",
+		"nombreCasaCultura": "Centro Cultural Salagua",
+		"correo": "culturamanzanillo@gmail.com",
+		"paginaFace": "https://www.facebook.com/Centro.Cultural.Salagua"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "minatitlan",
+		"nombreCasaCultura": "Casa de la Cultura de Minatitlán",
+		"correo": "(314) 336 08 26",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "tecoman",
+		"nombreCasaCultura": "Casa de la Cultura de Tecomán",
+		"correo": "(313) 324 40 15",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Colima",
+		"municipio": "villa de alvarez",
+		"nombreCasaCultura": "Casa de la Cultura de Villa de Álvarez",
+		"correo": "culturavdea@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Villa-De-Alvarez/251024034929401"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "alvaro obregon",
+		"nombreCasaCultura": "Centro Cultural Isidro Fabela",
+		"correo": "contacto@isidrofabela.com",
+		"paginaFace": "https://www.facebook.com/Fundacion-Cultural-Isidro-Fabela-AC-Nacional-146603155395706/timeline/"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "Azcapotzalco",
+		"nombreCasaCultura": "Casa de Cultura Azcapotzalco",
+		"correo": "casa_cultura_az@hotmail.com; ",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-Cultura-Azcapotzalco/208413359170347"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "benito juarez",
+		"nombreCasaCultura": "Centro Cultural Juan Rulfo",
+		"correo": "econtacto@dbj.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Juan-Rulfo/333347260128825"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "coyoacan",
+		"nombreCasaCultura": "Centro Nacional de las Artes",
+		"correo": "contacto@conaculta.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Nacional-de-Las-Artes-Cenart/502576133088696"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "cuajimalpa morelos",
+		"nombreCasaCultura": "Centro Cultural Cuajimalpa Morelos",
+		"correo": "jhernandez@cuajimalpa.df.gob.mx",
+		"paginaFace": "https://www.facebook.com/Cuajimalpa-de-Morelos-Eventos-Socio-Culturales-414419611979447/timeline/"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "Cuauhtémoc",
+		"nombreCasaCultura": "Centro Cultural Xavier Villaurrutia",
+		"correo": "xvillaurrutia@gmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Xavier-Villaurrutia-Glorieta-Insurgentes/290867011026633"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "Gustavo A. Madero",
+		"nombreCasaCultura": "Centro de Arte y Cultura Futurama",
+		"correo": "cfuturama@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Centro-de-la-Juventud-Arte-y-Cultura-Futurama-186707278675/timeline/"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "iztacalco",
+		"nombreCasaCultura": "Casa de Cultura Mariano Matamoros",
+		"correo": "eliza091072@yahoo.com",
+		"paginaFace": "https://www.facebook.com/pages/casa-de-cultura-mariano-matamoros/629615317089668"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "iztapalapa",
+		"nombreCasaCultura": "Centro Cultural Meyehualco de Elena Poniatowska",
+		"correo": "cultura@iztapalapa.gob.mx",
+		"paginaFace": "https://www.facebook.com/ccelenaponiatowska"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "Magdalena contreras",
+		"nombreCasaCultura": "Foro Cultural de la Magdalena Contreras",
+		"correo": "akuabalto@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Foro-Cultural-de-la-Magdalena-Contreras/216432725058823"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "miguel hidalgo",
+		"nombreCasaCultura": "Centro Cultural del Bosque",
+		"correo": "arteccb_see@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-del-Bosque-INBA-113500562082580/timeline/"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "milpa alta",
+		"nombreCasaCultura": "Casa de Cultura Tlacoyucan",
+		"correo": "casadeculturatlacoyucan@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "tlahuac",
+		"nombreCasaCultura": "Casa de Cultura Rosario Castellanos F.",
+		"correo": "cculturarosariocastellanos_69@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Rosario-Castellanos-409266772480275/timeline/"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "tlalpan",
+		"nombreCasaCultura": "CCasa de Cultura de Tlalpan",
+		"correo": "tcultura@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Tlalpan/100478920042935"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "venustiano carranza",
+		"nombreCasaCultura": "Centro Cultural Carranza",
+		"correo": "centrocultural@vcarranza.df.gob.mx",
+		"paginaFace": "https://www.facebook.com/CentroCulturalCarranza"
+	},
+	{
+		"estado": "Distrito Federal",
+		"municipio": "xochimilco",
+		"nombreCasaCultura": "Casa del Arte Xochimilco",
+		"correo": "casadelarte_xochimilco@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-del-Arte-de-Xochimilco-196484947192642/timeline/"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "durango",
+		"nombreCasaCultura": "Casa de la Cultura de Durango",
+		"correo": "ccdgo1@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Durango-307394695957212/timeline/"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "gomez palacio",
+		"nombreCasaCultura": "Casa de la Cultura de Gómez Palacio",
+		"correo": "ccgp73@gmail.com ",
+		"paginaFace": "https://www.facebook.com/casacultura.gomezpalacio"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "lerdo",
+		"nombreCasaCultura": "Casa de la Cultura Francisco Zarco",
+		"correo": "raul_marmolejohrmh@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-Francisco-Zarco/352970784736196"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "mapimi",
+		"nombreCasaCultura": "Casa de la cultura Lic. José Ramírez Gamero",
+		"correo": "cacube2011@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "nuevo ideal",
+		"nombreCasaCultura": "Casa de la Cultura de Nuevo Ideal",
+		"correo": "mario8947@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "santiago papasquiaro",
+		"nombreCasaCultura": "Casa de Cultura Familia Revueltas",
+		"correo": "(674) 862 09 46",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Durango",
+		"municipio": "vicente guerrero",
+		"nombreCasaCultura": "Centro de Arte y Cultura Futurama",
+		"correo": "secretariavtegro@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "acambay",
+		"nombreCasaCultura": "Centro Cultural Regional Dr. Maximiliano Ruiz Castañeda",
+		"correo": "acambayimc@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "acolman",
+		"nombreCasaCultura": "Casa de Cultura Nezahualcóyotl",
+		"correo": "nancy-logo@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "aculco",
+		"nombreCasaCultura": "Casa de Cultura Aculco",
+		"correo": "casaculturalaculco09_12@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadcultura.aculco"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "amatepec",
+		"nombreCasaCultura": "Casa de Cultura Sor Juana Inés de la Cruz",
+		"correo": "dominguez128@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "amecameca",
+		"nombreCasaCultura": "Casa de Cultura Sor Juana Inés de la Cruz",
+		"correo": "culturaamecameca@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Apaxco",
+		"nombreCasaCultura": "Centro Regional de Cultura Apaxco",
+		"correo": "Apaxcoimc@yahoo.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "atizapan",
+		"nombreCasaCultura": "Casa de la Cultura Santa Cruz Atizapán",
+		"correo": "lazaro_0729@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/cultura.atizapan2014?ref=br_rs"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Atizapan de zaragoza",
+		"nombreCasaCultura": "Centro Regional de Cultura Atizapán de Zaragoza",
+		"correo": "atizapanimc@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "atlacomulco",
+		"nombreCasaCultura": "Centro Regional de Cultura Lic. Isidro Fabela",
+		"correo": "atlacomulcoimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Fundacion-Cultural-Isidro-Fabela-AC-Nacional-146603155395706/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "atlautla",
+		"nombreCasaCultura": "Casa de Cultura Atlauhpanecatl",
+		"correo": "atlautla_presidencia0912@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "axapusco",
+		"nombreCasaCultura": "Casa de Cultura Toltecapan",
+		"correo": "culturaxapusco@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.toltecapan?ref=br_rs"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "capulhuac",
+		"nombreCasaCultura": "Casa de la cultura",
+		"correo": "sexta_regiduria@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "chalco",
+		"nombreCasaCultura": "Centro Regional de Cultura Chimalpahin",
+		"correo": "chalcoimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Regional-De-Cultura-De-Chalco-Chimalpahin/521763257886412"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "chapa de mota",
+		"nombreCasaCultura": "Casa de Cultura Municipal Chiapan",
+		"correo": "salgimar@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "chapultepec",
+		"nombreCasaCultura": "Casa de Cultura Ing. Julián Díaz Arias",
+		"correo": "chapultepec35pablo@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Chiconcuac",
+		"nombreCasaCultura": "Casa de Cultura Chiconcuac",
+		"correo": "dir_cultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.chiconcuac"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "chimalhuacan",
+		"nombreCasaCultura": "Casa de Cultura Chimalhuacán",
+		"correo": "cultura_chimalhuacan@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/casadeculturachimalhuacan"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "coacalco de berriozabal",
+		"nombreCasaCultura": "Casa de Cultura Calmecac",
+		"correo": "casadecultura@coacalco.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-Calmecac-299090000250317/timeline/?ref=br_rs"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "cocotlitlan",
+		"nombreCasaCultura": "Casa de Cultura Cocotli",
+		"correo": "chaparrita_mavi@hotmail.com",
+		"paginaFace": "https://www.facebook.com/people/Casa-De-Cultura-Cocotli/100009072969257"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "coyotepec",
+		"nombreCasaCultura": "Casa de Cultura Nezahualcóyotl",
+		"correo": "jc_bataca@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "cuautitlan",
+		"nombreCasaCultura": "Casa de la cultura de tenabo",
+		"correo": "casadecultura@cuautitlan.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-Municipal-de-Cultura-Luis-Nishizawa-Flores-136950893026254/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "cuautitlan izcalli",
+		"nombreCasaCultura": "Centro Regional de Cultura Cuautitlan Izcalli",
+		"correo": "cuautitlanizcalliimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/ForoAmigos?fref=nf"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "ecatepec de morelos",
+		"nombreCasaCultura": "Centro Cultural y Recreativo de Ecatepec",
+		"correo": "centrocyrecatepec_imc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-y-Recreativo-de-Ecatepec/220379721350091"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "ecatzingo",
+		"nombreCasaCultura": "Casa de Cultura Ehécatl",
+		"correo": "aittoayuntamientoecatzingo@live.com",
+		"paginaFace": "https://www.facebook.com/profile.php?id=100009166529780&ref=br_rs"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "el oro",
+		"nombreCasaCultura": "Casa de la Cultura Abraham Ángel",
+		"correo": "h_ayuntamiento@eloromexico.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "huixquilucan",
+		"nombreCasaCultura": "Casa de Cultura Sor Juana Inés de la Cruz",
+		"correo": "culturahxq@gmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "isidro Fabela",
+		"nombreCasaCultura": "Casa de Cultura Isidro Fabela",
+		"correo": "casadecultura_isidrofabela@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Ixtapaluca",
+		"nombreCasaCultura": "Casa de la Cultura Ixtapaluca",
+		"correo": "casacultura_ixtapaluca@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-La-Cultura/169897273073565?rf=141246376024383"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "jocotitlan",
+		"nombreCasaCultura": "Casa de Cultura Lic. Diego de Nájera Yanguas",
+		"correo": "casculdiegojoco@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "la paz",
+		"nombreCasaCultura": "Casa de Cultura La Paz",
+		"correo": "culturaenlapaz@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "lerma",
+		"nombreCasaCultura": "Casa de Cultura Profr. Adrián Ortega Monroy",
+		"correo": "fraymarin1964@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-Cultura-prof-Adrian-Ortega-Monroy-Lerma-De-Villada-M%C3%A9xico/649115535102693"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "malinalco",
+		"nombreCasaCultura": "Casa de Cultura Malinalxóchitl",
+		"correo": "ccmalinalco@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-Malinalxochitl-373115919454046/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Melchor ocampo",
+		"nombreCasaCultura": "Casa de Cultura Maximiano Sánchez y Pérez",
+		"correo": "viamil7@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "metepec",
+		"nombreCasaCultura": "Casa de Cultura de Metepec",
+		"correo": "dyc2009-2012@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Direcci%C3%B3n-de-Cultura-y-Fomento-Artesanal-de-Metepec-293252130797324/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "morelos",
+		"nombreCasaCultura": "Casa de Cultura Hemeterio Valverde y Téllez",
+		"correo": "morayo_20092012@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "naucalpan de juarez",
+		"nombreCasaCultura": "Centro Cultural Acatlán",
+		"correo": "difusionculturalfesa@gmail.unam.mx",
+		"paginaFace": "https://www.facebook.com/unamacatlan"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "nextlalpan",
+		"nombreCasaCultura": "Casa de Cultura Cualcalli",
+		"correo": "nextlalpanimc@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Nezahualcóyotl",
+		"nombreCasaCultura": "Centro Cultural Dr. Jaime Torres Bodet",
+		"correo": "direcultura0912@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CentroCulturalToresBodet"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "nicolas romero",
+		"nombreCasaCultura": "Casa de Cultura Nicolás Romero La Colmena",
+		"correo": "casaculcolmena@hotmail.es",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "nopaltepec",
+		"nombreCasaCultura": "Casa de Cultura de Nopaltepec ",
+		"correo": "regiduria@nopaltepec.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Ocoyoacac",
+		"nombreCasaCultura": "Centro Regional de Cultura de Ocoyoacac",
+		"correo": "ocoyoacacimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-regional-de-cultura-de-ocoyoacac/681018135264456?rf=449970671780588"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Ocuilan",
+		"nombreCasaCultura": "Unidad Cultural de Ocuilán",
+		"correo": "sonia_gom_mora@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Unidad-Cultural-Ocuilan-346398108774140/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "otumba",
+		"nombreCasaCultura": "Centro Regional de Cultura y Museo Gonzálo Carrasco",
+		"correo": "otumbaimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Centro-Regional-De-Cultura-Y-Museo-Gonzalo-Carrasco-Otumba-113961958753398/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "otzoloapan",
+		"nombreCasaCultura": "Casa de Cultura Hermanos Flores Magón",
+		"correo": "h_ayuntamiento_otzoloapan@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "otzolotepec",
+		"nombreCasaCultura": "Casa de Cultura Ocelotl",
+		"correo": "madariaga_21@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "ozumba",
+		"nombreCasaCultura": "Casa de Cultura José Antonio Arzate",
+		"correo": "culturaalzate@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Papalotla",
+		"nombreCasaCultura": "Casa de Cultura Municipal de Papalotla",
+		"correo": "casadeculturapapalotla@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Polotitlán",
+		"nombreCasaCultura": "Casa de Cultura Polotitlán",
+		"correo": "quetabarcenas@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "san felipe del progreso",
+		"nombreCasaCultura": "Casa de Cultura Profr. Jesús Gómez Nava",
+		"correo": "casadeculturasfp@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "san martin de las piramides",
+		"nombreCasaCultura": "Casa de Cultura Neteotiloyan",
+		"correo": "casadecultura@sanmartindelaspiramides.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "San Mateo Atenco",
+		"nombreCasaCultura": "Casa de Cultura Profra. Rosa Nava de López",
+		"correo": "jaquelinagogo@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-Cultura-Profra-Rosa-Mar%C3%ADa-Nava-de-L%C3%B3pez/1412893515640977"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "San simon de guerrero",
+		"nombreCasaCultura": "Casa de Cultura Cuitepec, San Simón de Guerrero",
+		"correo": "rosa_delia_mejia@hotmail.es",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "santo tomas",
+		"nombreCasaCultura": "Casa de Cultura Santiago Santa Ana",
+		"correo": "stomas2009@hotmail.com.mx ",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Soyaniquilpan de juarez",
+		"nombreCasaCultura": "Casa de Cultura Soyaniquilpan",
+		"correo": "manuelberney@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "sultepec",
+		"nombreCasaCultura": "Casa de Cultura Dr. José María Coss",
+		"correo": "casadecultura@sultepec.gob.mx ",
+		"paginaFace": "https://www.facebook.com/casacultura.sultepec"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tecamac",
+		"nombreCasaCultura": "Centro Regional de Cultura",
+		"correo": "tecamacimc@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tejupilco",
+		"nombreCasaCultura": "Centro Regional de Cultura de Tejupilco",
+		"correo": "tejupilcoimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Regional-De-Cultura-De-Tejupilco/182188155252180"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "temamantla",
+		"nombreCasaCultura": "Casa de Cultura In Acatlixhuayan In Temamatzolli",
+		"correo": "casadecultura_temamatla@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Temascalapa",
+		"nombreCasaCultura": "Casa de Cultura Temascalli",
+		"correo": "minesp@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-Cultura-Temazcalli/228869623833506"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "temascalcingo",
+		"nombreCasaCultura": "Centro Regional de Cultura José María Velasco",
+		"correo": "temascalcingoimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/PatronatoCasaDeCulturaTemascalcingo?fref=nf"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tenango del aire",
+		"nombreCasaCultura": "Casa de Cultura Ollinicóatl",
+		"correo": "adrianaperez2001@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "teotihuacan",
+		"nombreCasaCultura": "Casa de Cultura Ing. Heberto Castillo",
+		"correo": "direccioncultura7@gmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-de-Teotihuacan-IngHeberto-Castillo-406931652735753/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tepetlaoxtoc",
+		"nombreCasaCultura": "Casa de Cultura Fray Domingo de Betanzos",
+		"correo": "turismotepetlaoxtoc@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-CulturaFray-Domingo-de-Betanzos-Tepetlaoxtoc/515762668568552"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tepetlixpa",
+		"nombreCasaCultura": "Centro Regional de Cultura Nepantla",
+		"correo": "nepantlaimc@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tepotzotlán",
+		"nombreCasaCultura": "Casa de Cultura de Tepotzotlán",
+		"correo": "ccepo@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/CASA-DE-CULTURA-TEPOTZOTL%C3%81N/143924072306951"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Texcalyacac",
+		"nombreCasaCultura": "Centro Municipal de Arte y Cultura de Texcalyacac",
+		"correo": "jhoma_27@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Texcoco",
+		"nombreCasaCultura": "Centro Regional de Cultura de Texcoco",
+		"correo": "cultura@texcoco.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Regional-de-Cultura-de-Texcoco/154453534601330"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tezoyuca",
+		"nombreCasaCultura": "Casa de la Cultura Municipal de Tezoyuca",
+		"correo": "casadecultura@tezoyuca.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-de-Tezoyuca-M%C3%A9xico-192621090762594/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tianguistenco",
+		"nombreCasaCultura": "Casa de Cultura Profr. Carlos Hank González",
+		"correo": "cculturatianguistenco@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tlalnepantla de baz",
+		"nombreCasaCultura": "Centro Cultural Iztacala",
+		"correo": "culturizta@campus.iztacala.unam.mx",
+		"paginaFace": "https://www.facebook.com/Cultura-Iztacala-212549398773683/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "toluca",
+		"nombreCasaCultura": "Centro Regional de Cultura de Toluca",
+		"correo": "jalilan04@hotmail.com",
+		"paginaFace": "https://www.facebook.com/centro-regional-de-cultura-de-toluca-173508262699259/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tonatico",
+		"nombreCasaCultura": "Casa de Cultura Reynalda Morales Morales",
+		"correo": "f.c.tonalteaca@live.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "tultepec",
+		"nombreCasaCultura": "Casa de Cultura Víctor Manuel Urban Velazco",
+		"correo": "mauroescalonacortes@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Cultura-Tultepec-150662495086372/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "Tultitlán",
+		"nombreCasaCultura": "Casa de Cultura Tultitlán",
+		"correo": "culturasttul@gmail.com",
+		"paginaFace": "https://www.facebook.com/CulturaTultitlan"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "valle de bravo",
+		"nombreCasaCultura": "Centro Regional de Cultura Joaquín Arcadio Pagaza",
+		"correo": "casaculturavalledebravo@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/Amigos-del-Centro-Regional-de-Cultura-Valle-de-Bravo-150469095110791/timeline/"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "villa guerrero",
+		"nombreCasaCultura": "Casa de Cultura Tecualoyan",
+		"correo": "ixtapan@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CasaDeCulturaTecualoyanDeVillaGuerrero"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "villa victoria",
+		"nombreCasaCultura": "Casa de Cultura Miguel Ángel Martínez",
+		"correo": "penrril_79@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "xalatlaco",
+		"nombreCasaCultura": "Casa de Cultura Sor Juana Inés de la Cruz",
+		"correo": "hayttoxalatlaco2009@live.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "zinacantepec",
+		"nombreCasaCultura": "Casa de Cultura Matilde Zuñiga",
+		"correo": "casadeculturaMZ@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.matildezuniga"
+	},
+	{
+		"estado": "Estado de Mexico",
+		"municipio": "zumpango",
+		"nombreCasaCultura": "Casa de la Cultura Wenceslao Labra",
+		"correo": "zumpangoimc@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.zumpango?ref=br_rs"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Acambaro",
+		"nombreCasaCultura": "Casa de la cultura de Acambaro",
+		"correo": "cculturacambaro@hotmail.com",
+		"paginaFace": "https://www.facebook.com/ConexionAcambaro"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "abasolo",
+		"nombreCasaCultura": "Casa de la cultura de abasolo",
+		"correo": "ccabasolo@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.abasolo"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "apaseo el alto",
+		"nombreCasaCultura": "Casa de la Cultura de Apaseo El Alto",
+		"correo": "ccapaseoelalto@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Apaseo-el-Alto-343501992344080/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "apaseo el grande",
+		"nombreCasaCultura": "Casa de la Cultura Poeta Antonio Plaza",
+		"correo": "ccapaseoelalto@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-Poeta-Antonio-Plaza-489396634446013/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Atarjea",
+		"nombreCasaCultura": "Casa de la Cultura de Atarjea",
+		"correo": "culturaatarjea@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "celaya",
+		"nombreCasaCultura": "Casa de la Cultura Francisco Eduardo Tresguerras",
+		"correo": "cccelaya@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-Cultura-Francisco-Eduardo-Tresguerras/398784350201290"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Comonfort",
+		"nombreCasaCultura": "Casa de la Cultura de Comonfort",
+		"correo": "cccomonfort@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Chamacuero-Oficial-1459587934260172/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Coroneo",
+		"nombreCasaCultura": "Casa de la Cultura de Coroneo",
+		"correo": "laculturacoroneo@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Coroneo-Casa-de-Cultura/349772375107190"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Cortazar",
+		"nombreCasaCultura": "Casa de la Cultura de Cortazar",
+		"correo": "vladi68@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "cueramaro",
+		"nombreCasaCultura": "Casa de la Cultura Salvador Contreras",
+		"correo": "marco_tropo@hotmail.com",
+		"paginaFace": "https://www.facebook.com/profile.php?id=100004728786206"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "doctor mora",
+		"nombreCasaCultura": "Casa de Cultura Xochiquetzal",
+		"correo": "ccxochiquetzaldoctormora@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadeculturaxochiqueztal"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Dolores Hidalgo",
+		"nombreCasaCultura": "Casa de la Cultura de Dolores Hidalgo Cuna de la Independencia Nacional",
+		"correo": "culturadol@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.dolores"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "guanajuato",
+		"nombreCasaCultura": "Casa de la Cultura de Guanajuato",
+		"correo": "ccguanajuato@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/InstitutoEstataldelaCulturadeGuanajuato"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "huanimaro",
+		"nombreCasaCultura": "Casa de la Cultura de Huanímaro",
+		"correo": "huanimaro@guanajuato.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Irapuato",
+		"nombreCasaCultura": "Casa de la Cultura de Irapuato",
+		"correo": "promocincultural@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/eventosculturales.irapuato"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "jaral del progreso",
+		"nombreCasaCultura": "Casa de la Cultura Profr. Fulgencio Vargas Ortiz",
+		"correo": "a.n.gie2001@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-cultura-profesor-fulgencio-vargas-ortiz-195356087254934/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "jerecuaro",
+		"nombreCasaCultura": "Casa de la Cultura de Jerécuaro",
+		"correo": "ccjerecuaro@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/casacultura.jerecuaro?ref=br_rs"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "leon",
+		"nombreCasaCultura": "Centro Cultural San Gabriel",
+		"correo": "agcordova@centroculturalsangabriel.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-San-Gabriel/323362344377384"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Manuel doblado",
+		"nombreCasaCultura": "Casa de la Cultura de Cd. Manuel Doblado",
+		"correo": "ccmanueldoblado@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-cultura-de-cd-manuel-doblado-185731584897840/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "penjamo",
+		"nombreCasaCultura": "Casa de la Cultura Plazuelas",
+		"correo": "casacultura@penjamo.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.penjamogto.9"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "pueblo nuevo",
+		"nombreCasaCultura": "Casa de la Cultura de Pueblo Nuevo",
+		"correo": "pperezg_aui@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-De-Pueblo-Nuevo/512475292100533"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "romita",
+		"nombreCasaCultura": "Casa de Cultura Hermenegildo Bustos",
+		"correo": "ccultura@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "salamanca",
+		"nombreCasaCultura": "Casa de la cultura de salamanca",
+		"correo": "ccsalamanca@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/cultura.salamanca"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "San diego de la union",
+		"nombreCasaCultura": "Casa de la Cultura de San Diego de la Unión",
+		"correo": "ccsandiegodelaunion@guanajuato.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "San felipe",
+		"nombreCasaCultura": "Casa de la Cultura de San Felipe",
+		"correo": "ccsanfelipe@guanajuato.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "San francisco del rincon",
+		"nombreCasaCultura": "Casa de la Cultura de San Francisco del Rincón",
+		"correo": "cultura_sfr@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CasaCulturaSFR"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "San luis de la paz",
+		"nombreCasaCultura": "Casa de la Cultura de San Luis de la Paz",
+		"correo": "casadecultura_slpz@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-San-Luis-De-La-Paz/203297406542695"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "San miguel de allende",
+		"nombreCasaCultura": "Casa de la Cultura de San Miguel de Allende",
+		"correo": "ccsanmiguelallende@guanajuato.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Santa catarina",
+		"nombreCasaCultura": "Casa de la Cultura de Santa Catarina",
+		"correo": "ccsantacatarina@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.santacatarina"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Santa Cruz de Juventino Rosas",
+		"nombreCasaCultura": "Casa de la Cultura de Santa Cruz de Juventino Rosas",
+		"correo": "ccjuventinorosas@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/CasaDeLaCulturaJuventinoRosas"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Santiago Maravatio",
+		"nombreCasaCultura": "Casa de la Cultura de Santiago Maravatío",
+		"correo": "ccultura_maravatio@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadelacultura.santiagomaravatio.3"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Silao",
+		"nombreCasaCultura": "Casa de la Cultura Isauro Rionda Arreguín",
+		"correo": "ccsilao@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Isauro-Rionda-Arregu%C3%ADn-Silao-Gto-526591210733806/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Tarandacuao",
+		"nombreCasaCultura": "Casa de la Cultura de Tarandacuao",
+		"correo": "cctarnadacuao@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-Tarandacuao/207564492634377"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "tarimoro",
+		"nombreCasaCultura": "Casa de la Cultura Lucas de San Juan",
+		"correo": "cctarimoro@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-La-Cultura-Lucas-de-San-Juan/192279957493543"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "tierra blanca",
+		"nombreCasaCultura": "Casa de la Cultura de Tierra Blanca",
+		"correo": "cctierrablanca@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.blanca"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Uriangato",
+		"nombreCasaCultura": "Casa de la Cultura de Uriangato",
+		"correo": "casa_cul@yahoo.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "valle de santiago",
+		"nombreCasaCultura": "Casa de la Cultura de Valle de Santiago",
+		"correo": "casa_culturavalle@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-Cultura-de-Valle-de-Santiago-Gto-302831164586/timeline/"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Victoria",
+		"nombreCasaCultura": "Casa de la Cultura de Victoria",
+		"correo": "ccvictoria@guanajuato.gob.mx ",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "villagran",
+		"nombreCasaCultura": "Casa de la Cultura de Villagrán",
+		"correo": "culturaguaxe@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "Xichú",
+		"nombreCasaCultura": "Casa de la Cultura de Xichú",
+		"correo": "ccxichu@guanajuato.gob.mx",
+		"paginaFace": "https://www.facebook.com/casacultura.xichugto?ref=br_rs"
+	},
+	{
+		"estado": "guanajuato",
+		"municipio": "yuriria",
+		"nombreCasaCultura": "Casa de la Cultura Yuririapúndaro",
+		"correo": "ccyuriria@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Acapulco de juarez",
+		"nombreCasaCultura": "Centro Cultural Acapulco",
+		"correo": "centrocultural.acapulco@gmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-Acapulco-139367729516958/timeline/"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Arcelia",
+		"nombreCasaCultura": "Casa de la cultura de tenabo",
+		"correo": "none",
+		"paginaFace": "https://www.facebook.com/CasadeculturaArceliaUAgro"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Chilpancingo de los Bravo",
+		"nombreCasaCultura": "Centro Cultural María Luisa Ocampo",
+		"correo": "chris777_@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "coyuca de benitez",
+		"nombreCasaCultura": "Casa de Cultura de Coyuca de Benítez",
+		"correo": "presidencia@coyuca.gob.mx",
+		"paginaFace": "https://www.facebook.com/La-Casa-de-la-Cultura-de-Coyuca-de-Ben%C3%ADtez-Gro-191195467683354/timeline/"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Eduardo Neri",
+		"nombreCasaCultura": "Casa de Cultura de Zumpango de Neri",
+		"correo": "axel_blue10@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "iguala de independencia",
+		"nombreCasaCultura": "Centro Cultural Tiempo y Espacio",
+		"correo": "centroculturaltiempoyespacio@yahoo.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "jose azueta",
+		"nombreCasaCultura": "Casa de Cultura de Zihuatanejo",
+		"correo": "none",
+		"paginaFace": "https://www.facebook.com/pages/Casa-de-la-Cultura-de-Ixtapa-Zihuatanejo/1414815342112778?rf=593900550623967"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "marquelia",
+		"nombreCasaCultura": "Casa de la Cultura Marquelia",
+		"correo": "culturamarquelia@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "ometepec",
+		"nombreCasaCultura": "Casa de la Cultura Ometepec",
+		"correo": "darena20@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadelacultura.ometepec.9"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Petatlán",
+		"nombreCasaCultura": "Casa de la Cultura de Petatlán",
+		"correo": "juvenal_ayala@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-cultura-Petatlan-Gro-524461427606176/timeline/"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Pungarabato",
+		"nombreCasaCultura": "Casa de Cultura de Pungarabato",
+		"correo": "raigel31@live.com.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Taxco",
+		"nombreCasaCultura": "Centro Cultural Taxco Casa Borda",
+		"correo": "rosariocambray@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-Taxco-254186107965655/timeline/"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Tecpan",
+		"nombreCasaCultura": "Casa de la Cultura de Técpan de Galeana",
+		"correo": "none",
+		"paginaFace": "https://www.facebook.com/casadelacultura.tecpan"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Tixtla de Guerrero",
+		"nombreCasaCultura": "Centro Cultural Margarito Damián Vargas",
+		"correo": "tixtla.jorgeluiscampos@gmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "Tlapa de Comonfort",
+		"nombreCasaCultura": "Casa de la Cultura Municipal",
+		"correo": "ely2123@smn.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "guerrero",
+		"municipio": "___________________________________",
+		"nombreCasaCultura": "________________________",
+		"correo": "__________________",
+		"paginaFace": "_________________"
+	},
+
+	{
+		"estado": "hidalgo",
+		"municipio": "Actopan",
+		"nombreCasaCultura": "Casa de la Cultura de Actopan",
+		"correo": "contacto@ccactopan.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Actopan-142102512481277/"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Ajacuba",
+		"nombreCasaCultura": "Casa de Cultura de Ajacuba",
+		"correo": "casadeculturaajacuba@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.ajacubahidalgo?ref=br_rs"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Atitalaquia",
+		"nombreCasaCultura": "Casa de Cultura Palacio Toltectl-Calli",
+		"correo": "toltectl_calli@live.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Huasca de Ocampo",
+		"nombreCasaCultura": "Casa de Cultura de Huasca de Ocampo",
+		"correo": "culturahuasca@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Huejutla de Reyes",
+		"nombreCasaCultura": "Casa de la Cultura de Huejutla de Reyes",
+		"correo": "casadelacultura_huejutla@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-Cultura-Huejutla-de-Reyes-Hidalgo-419403694803124/"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Huichapan",
+		"nombreCasaCultura": "Casa de Cultura del Instituto Huichapense de Cultura",
+		"correo": "esther_lp2@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Instituto-Huichapense-de-Cultura-416532821734628/?fref=nf"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Ixmiquilpan",
+		"nombreCasaCultura": "Centro Cultural del Valle del Mezquital",
+		"correo": "centro_cultural_delvalle@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-del-Valle-del-Mezquital/197095197121799"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Jacala de Ledezma",
+		"nombreCasaCultura": "Casa Cultural de Jacala de Ledezma",
+		"correo": "casadeculturajacala@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Mineral del Monte",
+		"nombreCasaCultura": "Centro Cultural de Real del Monte",
+		"correo": "cultura.realdelmonte@gmail.com",
+		"paginaFace": "https://www.facebook.com/cultura.realdelmonte"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Nopala d Villagran",
+		"nombreCasaCultura": "Museo Arqueológico y Casa de Cultura Maravillas",
+		"correo": "me_resendiz@hotmail.com",
+		"paginaFace": "https://www.facebook.com/media/set/?set=a.194999780530191.56906.131190300244473&type=3"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Pachuca de soto",
+		"nombreCasaCultura": "Centro de las Artes de Hidalgo",
+		"correo": "centrodelasartes.cecultah@gmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-de-las-Artes-de-Hidalgo-196204527170527/"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Pisaflores",
+		"nombreCasaCultura": "Casa de Cultura de Pisaflores",
+		"correo": "tresi.pisaflores@hotmail.com",
+		"paginaFace": "https://www.facebook.com/people/Casa-De-Cultura-Pisaflores-Flor-del-Huapango/100007755092695"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "San Salvador",
+		"nombreCasaCultura": "Casa de Cultura de Poxindeje",
+		"correo": "casadeculturasansalvadorgob09@yahoo.com.mx; ",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tecozautla",
+		"nombreCasaCultura": "Casa de Cultura de Tecozautla",
+		"correo": "angelmendoza_06@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadelacultura.tecozautla.3"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tepeapulco",
+		"nombreCasaCultura": "Casa de la Cultura Comunitaria y Regional de Tepeapulco",
+		"correo": "cmc2012_@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tepeji del Rio",
+		"nombreCasaCultura": "Centro Cultural de Tepeji del Río",
+		"correo": "cculturatepeji@gmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.tepeji/"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tepetitlán",
+		"nombreCasaCultura": "Casa de Cultura de Tepetitlán",
+		"correo": "paloma_@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tula de Allende",
+		"nombreCasaCultura": "Casa de Cultura Tula de Allende",
+		"correo": "sadotchapa@gmail.com; aro_didis@live.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura/158662420945258"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Tulancingo de Bravo",
+		"nombreCasaCultura": "Casa de Cultura Ricardo Garibay",
+		"correo": "heberl@me.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Villa de Tezontepec",
+		"nombreCasaCultura": "Casa de Cultura de Villa de Tezontepec",
+		"correo": "enciso_p_5@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Zacualtipán de Ángeles",
+		"nombreCasaCultura": "Centro Cultural de Zacualtipán de Ángeles",
+		"correo": "zacualtipan@hidalgo.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Zempoala",
+		"nombreCasaCultura": "Casa de Cultura de Zempoala",
+		"correo": "ann_q2aj@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Casa-de-la-cultura-zempoala-1466433470345705/?fref=ts"
+	},
+	{
+		"estado": "hidalgo",
+		"municipio": "Zimapán",
+		"nombreCasaCultura": "Casa de Cultura Comunitaria Regional de Zimapán",
+		"correo": "cultura_zimapan@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tabasco",
+		"municipio": "Centro",
+		"nombreCasaCultura": "Centro Cultural Villahermosa",
+		"correo": "ccvcoordinacion@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Difusi%C3%B3n-Cultural-del-Instituto-Estatal-de-Cultura-de-Tabasco-268036859990805/"
+	},
+	{
+		"estado": "tabasco",
+		"municipio": "Jalpa de Méndez",
+		"nombreCasaCultura": "Casa de Cultura de Jalpa de Méndez",
+		"correo": "decur_jalpa@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Jalpa-De-M%C3%A9ndez/514587085308663"
+	},
+	{
+		"estado": "tabasco",
+		"municipio": "Tenosique",
+		"nombreCasaCultura": "none",
+		"correo": "(934) 342 19 89",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura-Tenosique-Tabasco/375030499237433"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Calpulalpan",
+		"nombreCasaCultura": "Centro Cultural Calpulalpan",
+		"correo": "alrolb@hotmail.com ",
+		"paginaFace": "https://www.facebook.com/pages/Instituto-Tlaxcalteca-De-La-Cultura-Centro-Cultural-Calpulalpan/1380935948804840?rf=508813129207964"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Nanacamilpa de Mariano Arista",
+		"nombreCasaCultura": "Centro Cultural Nanacamilpa",
+		"correo": "pedroavelinoalcantara@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-Nanacamilpa-596619337048080/?hc_location=ufi"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "hueyotlipan",
+		"nombreCasaCultura": "Centro Cultural Hueyotlipan Ex convento Franciscano",
+		"correo": "c.c.hueyotlipan@outlook.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Tlaxco",
+		"nombreCasaCultura": "Centro Cultural Tlaxco",
+		"correo": "parlando_luis@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "tlaxcala",
+		"nombreCasaCultura": "Centro Cultural Tlaxcala",
+		"correo": "c.g.c.@hotmail.com ",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Zacatelco",
+		"nombreCasaCultura": "Centro Cultural Regional Zacatelco",
+		"correo": "morachacccz@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-ITC-Zacatelco-729043613876268/info?tab=overview"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Papalotla",
+		"nombreCasaCultura": "Centro Cultural Papalotla",
+		"correo": "nona_grmt@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Chiautempan",
+		"nombreCasaCultura": "Centro Cultural Chiautempan José Agustín Arrieta",
+		"correo": "chiautempanitc@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Yauhquemehcan",
+		"nombreCasaCultura": "Centro Cultural Yauhquemehcan",
+		"correo": "festivales_itc@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "apizaco",
+		"nombreCasaCultura": "La Libertad Centro Cultural Apizaco",
+		"correo": "lozadaarquitecto@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Huamantla",
+		"nombreCasaCultura": "Centro Cultural de Huamantla",
+		"correo": "cronicahuamantla@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "tlaxcala",
+		"municipio": "Ixtenco",
+		"nombreCasaCultura": "Centro Cultural Ixtenco",
+		"correo": "ccixtenco@hotmail.com",
+		"paginaFace": "https://www.facebook.com/centroculturalixtenco/"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Cuernavaca",
+		"nombreCasaCultura": "Centro Morelense de las Artes",
+		"correo": "serviciosescolares_cma@institutodeculturademorelos.gob.mx",
+		"paginaFace": "https://www.facebook.com/CmaemOficial"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Temixco",
+		"nombreCasaCultura": "Centro Cultural Temixco",
+		"correo": "dic.cultura.temixco@gmail.com ",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Xochitepec",
+		"nombreCasaCultura": "Centro Cultural Xochitepequense",
+		"correo": "socorro070272@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Tepoztlan",
+		"nombreCasaCultura": "Centro Cultural Pedro López Elías",
+		"correo": "centroculturalpedrolopezelias@gmail.com",
+		"paginaFace": "https://www.facebook.com/CulturaPLETepoz"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Yautepec",
+		"nombreCasaCultura": "Casa de la Cultura Virginia Fábregas",
+		"correo": "culturayautepec@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Tlayacapan",
+		"nombreCasaCultura": "Centro Cultural Vinculart",
+		"correo": "mpazsilva@vinculart.org.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "cuautla",
+		"nombreCasaCultura": "Centro Cultural El Callejón",
+		"correo": "consejoculturalcuautla@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/centroculturalelcallejon/"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Atlatlahucan",
+		"nombreCasaCultura": "Casa de Cultura Atlatlahucan",
+		"correo": "cultura_atlatlahucan@outlook.com",
+		"paginaFace": "https://www.facebook.com/Proyecto-Cultural-Atlatlahucan-800273670040895/"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Yecapixtla",
+		"nombreCasaCultura": "Centro Cultural Talentos y Vida",
+		"correo": "talentosvida@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-Talentos-y-Vida-AC-300705979978532/"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Jonacatepec",
+		"nombreCasaCultura": "Casa de la Cultura de Jonacatepec",
+		"correo": "euaroche@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Cultura-de-Jonacatepec-Morelos-7o-Distrito-en-el-Valle-de-Amilpas-245835488768195/timeline/"
+	},
+	{
+		"estado": "morelos",
+		"municipio": "Ocuituco",
+		"nombreCasaCultura": "Casa Regional de Cultura Fundación Rayuela",
+		"correo": "casaculturaocuituco@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "nayarit",
+		"municipio": "san blas",
+		"nombreCasaCultura": "Casa de la Cultura de San Blas",
+		"correo": "dir_casadelacultura@hotmail.com",
+		"paginaFace": "https://www.facebook.com/people/Casa-DE-LA-Cultura-San-Blas-Nayarit/100005768748704"
+	},
+	{
+		"estado": "nayarit",
+		"municipio": "Compostela",
+		"nombreCasaCultura": "Casa de Cultura Gral. Gilberto Flores Muñoz",
+		"correo": "darte@e-compostela.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "nayarit",
+		"municipio": "tepic",
+		"nombreCasaCultura": "Centro de Arte Contemporáneo del Bicentenario Emilia Ortiz",
+		"correo": "memortac@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CAC-Emilia-Ortiz-Capacitaci%C3%B3n-Talleres-y-Animaci%C3%B3n-Cultural-376012455760143/?fref=nf"
+	},
+	{
+		"estado": "nayarit",
+		"municipio": "ahuacatlan",
+		"nombreCasaCultura": "Casa de Cultura Dr. Luis Aranda del Toro",
+		"correo": "(324) 241 03 96",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "nayarit",
+		"municipio": "Ixtlan del Rio",
+		"nombreCasaCultura": "Casa de Cultura de Ixtlán",
+		"correo": "anawen_7@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Museo-Casa-De-La-Cultura-Ixtlan-Del-R%C3%ADo-Nayarit/313794815383836"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Amealco de Bonfil",
+		"nombreCasaCultura": "Centro Cultural Amealco",
+		"correo": "aalcantar@amelco.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Arroyo Seco",
+		"nombreCasaCultura": "Casa Municipal de la Cultura Arroyo Seco",
+		"correo": "culturaarroyoseco@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Cadereyta de Montes",
+		"nombreCasaCultura": "Centro Cultural de Cadereyta",
+		"correo": "adrisserrano@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Cadereyta/200632266623190"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Colon",
+		"nombreCasaCultura": "Casa de Cultura de Colón",
+		"correo": "casadeculturadecolon@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Corregidora",
+		"nombreCasaCultura": "Centro Cultural Tejeda",
+		"correo": "cctejeda2015@outlook.com",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Tejeda/301145660088275"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "El Marqués",
+		"nombreCasaCultura": "Casa de Cultura de El Marqués",
+		"correo": "lic_jgbr@hotmail.com",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Ezequiel Montes",
+		"nombreCasaCultura": "Casa Municipal de Cultura de Ezequiel Montes",
+		"correo": "agn73@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-Municipal-de-Cultura-de-Ezequiel-Montes/1498101873740083"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "huimilpan",
+		"nombreCasaCultura": "Casa de la Cultura J. Guadalupe Velázquez",
+		"correo": "martin.torres@huimilpan.gob.mx",
+		"paginaFace": "none"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "landa de Matamoros",
+		"nombreCasaCultura": "Casa de la Cultura de Landa de Matamoros",
+		"correo": "educacionycultura@landadematamorosqro.gob.mx",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-Cultura-Landa-De-Mata/499519096838030"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Peñamiller",
+		"nombreCasaCultura": "Casa Municipal de Cultura de Peñamiller",
+		"correo": "salina_res@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Instituto-Queretano-de-la-Cultura-y-las-Artes-215102302059/"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Pinal de Amoles",
+		"nombreCasaCultura": "Casa de la Cultura de Pinal de Amoles",
+		"correo": "culturamunicipal@hotmail.com",
+		"paginaFace": "https://www.facebook.com/casadecultura.d.pinaldeamoles?ref=br_rs"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "querétaro",
+		"nombreCasaCultura": "Centro Cultural Mtro. Enrique Burgos Mondragón",
+		"correo": "ccenriqueburgosmondragon@gmail.com",
+		"paginaFace": "https://www.facebook.com/centroculturalenriqueburgos/"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "san joaquin",
+		"nombreCasaCultura": "Casa Municipal de Cultura de San Joaquín",
+		"correo": "direc_sj@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/casadecultura.sanjoaquin"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "San Juan del Río",
+		"nombreCasaCultura": "Casa Municipal de Cultura de San Juan del Río",
+		"correo": "desarrollocultural@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CulturaSanJuandelRio"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Tequisquiapan",
+		"nombreCasaCultura": "Centro Cultural Gloria Michaus Fernández",
+		"correo": "tx_cultural@yahoo.com.mx",
+		"paginaFace": "https://www.facebook.com/pages/Centro-Cultural-Gloria-Michaus-Fern%C3%A1ndez/1568845576674470"
+	},
+	{
+		"estado": "querétaro",
+		"municipio": "Tolimán",
+		"nombreCasaCultura": "Casa Municipal de Cultura de Tolimán",
+		"correo": "cint_ti@hotmail.com",
+		"paginaFace": "https://www.facebook.com/CasadeLaCulturaToliman"
+	},
+	{
+		"estado": "Yucatán",
+		"municipio": "Progreso",
+		"nombreCasaCultura": "Casa de la Cultura de Progreso",
+		"correo": "manzanof@hotmail.com",
+		"paginaFace": "https://www.facebook.com/pages/Casa-De-La-Cultura/374404325929940"
+	},
+	{
+		"estado": "Yucatán",
+		"municipio": "Mérida",
+		"nombreCasaCultura": "Centro Cultural del Niño Yucateco",
+		"correo": "omjela87@hotmail.com",
+		"paginaFace": "https://www.facebook.com/Centro-Cultural-del-Ni%C3%B1o-Yucateco-Cecuny-375623165822889/"
+	},
+	{
+		"estado": "Yucatán",
+		"municipio": "none",
+		"nombreCasaCultura": "none",
+		"correo": "none",
+		"paginaFace": "none"
+	}
+	
+
+]
