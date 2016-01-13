@@ -1,0 +1,26 @@
+{
+  "name": "bienal",
+  "version": "1.0.0",
+  "description": "api para encontrar los centros culturales de mexico",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/futureweb2000/bienal.git"
+  },
+  "author": "mario",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/futureweb2000/bienal/issues"
+  },
+  "homepage": "https://github.com/futureweb2000/bienal#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-webserver": "^0.9.1"
+  }
+}
