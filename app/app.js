@@ -4,7 +4,7 @@ var app = angular.module('bienal',[]);
 
 		app.controller('PosterController',['$scope', '$http', function($scope, $http){
 			$scope.posts = [];
-			$http.get('/data.json')
+			$http.get('./data.json')
 				.success(function(data){
 					$scope.posts = data;
 				})

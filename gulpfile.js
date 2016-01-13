@@ -12,3 +12,6 @@ gulp.task('server', function(){
 		})) //le anadimos la configuracion 
 
 });
+
+
+gulp.task('default', ['server']);
