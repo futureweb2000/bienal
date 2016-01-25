@@ -2,7 +2,7 @@
 <html lang="en" ng-app="bienal">
 <head>
 	<meta charset="UTF-8">
-	<title>Document</title>
+	<title>Informacion de los Centros Culturales de México</title>
 
 	<style>
 		h5:first-letter{
@@ -14,10 +14,12 @@
 			padding: 5px 8px;
 			border: 1px solid gray;
 			color: white;
-			border-radius: 5px
+			border-radius: 5px;
+			transition:.3s;
 		}
 		.face:hover{
 			color:lightgray;
+			transform:scale(1.05);
 		}
 		.post-wrap{
 			display: flex;
@@ -62,6 +64,15 @@
 		.up{
 			text-transform: capitalize;
 		}
+
+
+		.back-blue{
+			background: #107596;
+			border-radius: 8px;
+			padding:1px 8px;
+			color:white;
+			box-shadow: 0px 0px 10px black;
+		}
 	</style>
 </head>
 <body ng-controller="PosterController">
@@ -71,7 +82,7 @@
 		</form>
 	</header>
 
-	<h1 class="title-pagina">Centros Culturales De Mexico ---> <span>{{posts.length}}</span> </h1>
+	<h1 class="title-pagina">Centros Culturales De Mexico ---> <span class="back-blue">{{posts.length}}</span> </h1>
 
 
 	<hr>
