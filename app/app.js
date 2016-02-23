@@ -18,4 +18,3 @@ var app = angular.module('bienal',[]);
 
 
 })();
-
